@@ -11,4 +11,4 @@ An automation script which adds the moderator on all the challenges of a page pa
         "pwd":"<pwd>"
     }
 3. Run sh run.sh command on your terminal in case you have Linux.
-4. Dor Windows, run the .bat file.
+4. On Windows, run the .bat file.
